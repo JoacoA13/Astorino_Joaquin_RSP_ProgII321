@@ -10,3 +10,6 @@ Este sistema nos permite gestionar los distintos tipos de eventos, permitiendo r
 * Mostrar todos: muestra la informacion de cada elemento de la lista.
 * Guardar/Cargar en CSV: permite guardar la lista de eventos en un archivo CSV para su persistencia y carga desde un archivo CSV.  
 * Guardar/Cargar en archivo binario: permite guardar la lista de eventos en un archivo binario, lo que facilita la serialización y deserialización de los objetos.
+
+Aclaracion: si el codigo no compila, es por la version de Java.
+Version usada: JDK 23
